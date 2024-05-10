@@ -1,6 +1,9 @@
 
 ![combine](https://github.com/aprijunaidi/scopus-wos-combine/assets/7279471/b6743d5c-38e6-4d39-9468-72fde96191dd)
 
+<img src="https://github.com/aprijunaidi/scopus-wos-combine/assets/7279471/b6743d5c-38e6-4d39-9468-72fde96191dd" width="50%" height="50%">
+
+
 # Combining Scopus and Web of Science Databases using R Studio
 
 Welcome to this project! In this repository, we aim to combine two of the most comprehensive academic databases - **Scopus** and **Web of Science (WoS)** - using **R Studio**. 
