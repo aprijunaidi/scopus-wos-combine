@@ -1,7 +1,7 @@
 
-
+<center>
 <img src="https://github.com/aprijunaidi/scopus-wos-combine/assets/7279471/b6743d5c-38e6-4d39-9468-72fde96191dd" width="50%" height="50%">
-
+</center>
 
 # Combining Scopus and Web of Science Databases using R Studio
 
