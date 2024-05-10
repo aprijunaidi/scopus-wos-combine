@@ -4,7 +4,7 @@ Welcome to this project! In this repository, we aim to combine two of the most c
 
 ## Why Combine Scopus and WoS?
 
-Both Scopus and WoS are rich sources of bibliometric data, each with their own strengths. Scopus, with its extensive journal coverage and citation data, and WoS, known for its robust citation indexing, provide complementary insights. By combining these databases, we can leverage the strengths of both, resulting in a more comprehensive and robust dataset for our research.
+Both Scopus and WoS are rich sources of bibliometric data, each with their own strengths. Scopus, with its extensive journal coverage and citation data, and WoS, known for its robust citation indexing, provide complementary insights. By combining these databases, we can leverage the strengths of both, resulting in a more comprehensive and robust dataset for our research or create your own SLR.
 
 ## How Do We Use R Studio?
 
@@ -75,4 +75,9 @@ Biblioshiny is a web-based tool that facilitates the import, gathering, filterin
 biblioshiny()
 ```
 
+# Conclusion
+
+We have successfully combined the Scopus and Web of Science databases using R Studio and performed some preliminary analyses. This project demonstrates the power of bibliometric data and the insights that can be gained from it. We hope this repository serves as a useful resource for researchers and data analysts alike.
+
+Thank you for visiting this project. If you have any questions, suggestions, or would like to contribute, please feel free to give Star and Fork. Happy analyzing!
 
