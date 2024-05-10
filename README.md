@@ -23,7 +23,7 @@ Let's dive into the world of bibliometric analysis with R Studio!
 Once you have downloaded the Scopus and WoS databases in BibTeX format, the next step is to process and combine these databases using R console. Here's a step-by-step guide on how to do this:
 
 ## Step 1: Load the Required Libraries
-
+Please [create an Issue] (https://github.com/aprijunaidi/scopus-wos-combine/issues) for any improvements, suggestions, or errors in the content.
 First, we need to load the necessary R libraries. For this project, we will primarily be using 'convert2df' for converting BibTeX files to data frames, and `mergeDbSources` for data merger (combine).
 
 ```r
@@ -80,4 +80,7 @@ biblioshiny()
 We have successfully combined the Scopus and Web of Science databases using R Studio and performed some preliminary analyses. This project demonstrates the power of bibliometric data and the insights that can be gained from it. We hope this repository serves as a useful resource for researchers and data analysts alike.
 
 Thank you for visiting this project. If you have any questions, suggestions, or would like to contribute, please feel free to give Star and Fork. Happy analyzing!
+
+# Contribution :hammer_and_wrench:
+
 
