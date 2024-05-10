@@ -24,7 +24,7 @@ Once you have downloaded the Scopus and WoS databases in BibTeX format, the next
 
 ## Step 1: Load the Required Libraries
 
-First, we need to load the necessary R libraries. For this project, we will primarily be using `bib2df` for converting BibTeX files to data frames, and `dplyr` for data manipulation.
+First, we need to load the necessary R libraries. For this project, we will primarily be using 'convert2df' for converting BibTeX files to data frames, and `mergeDbSources` for data merger (combine).
 
 ```r
 library(bibliometrix)
