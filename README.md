@@ -89,6 +89,6 @@ Thank you for visiting this project. If you have any questions, suggestions, or 
 
 # Contribution :hammer_and_wrench:
 
-Please [create an Issue] (https://github.com/aprijunaidi/scopus-wos-combine/issues) for any improvements, suggestions, or errors in the content.
+Please [create an Issue](https://github.com/aprijunaidi/scopus-wos-combine/issues) for any improvements, suggestions, or errors in the content.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faprijunaidi%2Fscopus-wos-combine&countColor=%23263759)
