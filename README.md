@@ -33,12 +33,16 @@ First, we need to load the necessary R libraries. For this project, we will prim
 
 ```r
 library(bibliometrix)
+```
+```r
 library(openxlsx)
 ```
 
 ## Step 2: Set your file directory
 ```r
 setwd('/Volumes/PATHTO/')
+```
+```r
 getwd()
 ```
 
@@ -47,6 +51,8 @@ Next, we convert the downloaded BibTeX files into data frames using the convert2
 
 ```r
 WOS_df <- convert2df(file = 'your_wos_file_name.bib', dbsource = "wos", format = "bibtex")
+```
+```r
 SCOPUS_df <- convert2df(file = 'your_scopus_file_name.bib', dbsource = "scopus", format = "bibtex")
 ```
 
@@ -61,6 +67,9 @@ Merge_SCO_WOS <- mergeDbSources(SCOPUS_df, WOS_df, remove.duplicated=TRUE)
 
 ```r
 View(Merge_SCO_WOS)
+```
+
+```r
 dim(Merge_SCO_WOS)
 ```
 
@@ -70,6 +79,9 @@ Finally, we combine the cleaned Scopus and WoS data frames into a single data fr
 
 ```r
 write.csv2(Merge_SCO_WOS, file = 'scopus-wos-combine.csv')
+```
+
+```r
 write.xlsx(Merge_SCO_WOS, file = 'scopus-wos-combine.xlsx')
 ```
 
