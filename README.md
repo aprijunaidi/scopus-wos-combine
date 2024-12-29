@@ -41,7 +41,12 @@ library(openxlsx)
 ## Step 2: Set your file directory
 ```r
 setwd('/Volumes/PATHTO/')
+
+For Example
+```r
+ setwd('D:/Data')
 ```
+
 ```r
 getwd()
 ```
